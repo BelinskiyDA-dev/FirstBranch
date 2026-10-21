@@ -1,2 +1,3 @@
 Hello
 Hi
+Conflict 2
